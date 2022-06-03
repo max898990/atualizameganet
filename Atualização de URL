@@ -78,33 +78,4 @@
     },
     {
       "Nome": "CLARO SSL 04",
-      "BANDEIRA": "claro",
-      "Carga útil": "",
-      "SNI": "m.waze.com",
-      "TlsIP": "",
-      "IP de Proxy": "",
-      "Porta proxy": "",
-      "Informações": "Ssl"
-    },
-    {
-      "Nome": "CLARO SSL 05",
-      "BANDEIRA": "claro",
-      "Carga útil": "",
-      "SNI": "web.whatsapp.com",
-      "TlsIP": "",
-      "IP de Proxy": "",
-      "Porta proxy": "",
-      "Informações": "Ssl"
-    },
-    {
-      "Nome": "OI TLS 02",
-      "BANDEIRA": "oi",
-      "Payload": "GET ssl://mobilidade.cloud.caixa.gov.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection[crlf]Upgrade: websocket[crlf]Upgrade: WebSocket[crlf][ crlf]Conexão: Atualização[crlf]",
-      "SNI": "mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "mobilidade.cloud.caixa.gov.br",
-      "IP de Proxy": "",
-      "Porta proxy": "",
-      "Informações": "Tlsws"
-    }
-  ]
-}
+      
